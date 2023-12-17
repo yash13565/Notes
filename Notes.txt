@@ -1,17 +1,35 @@
 //Library
 
-A library is a collection of object,modules or functions that you can call from your code to perform specific task.A library is small and you can add more libraries in it.
+-A library is a collection of object,modules or functions that you can call from your code to perform specific task.A library is small and you can add more libraries in it.
 
 //Framemork
 
-A Framemork is a structure that provide guideline and enforce specific coding practices.Framemork is a complete package all the necessary thing for development is already installed.
+-A Framemork is a structure that provide guideline and enforce specific coding practices.Framemork is a complete package all the necessary thing for development is already installed.
 
 //What is CDN ? Why do we use it?
 
-CDN stands for Content Delivery Network.It is a globaly distributed netwrok of proxy servers and their data centres.
+-CDN stands for Content Delivery Network.It is a globaly distributed netwrok of proxy servers and their data centres.
 
 ##use
 
 1.Fastest Content Delivery.
 2.Cache Mangement.
 3.Scalability
+
+//Why is React known as React?
+-React is called react because it reacts.It is a js library that is used to make single page applications.Its completly frontend and specializes in thing that users interact.
+
+//What is crossorigin in script tag?
+-It allows the browser to load resources from another domain if they are marked with "crossorigin".
+
+//What is diference between React and ReactDOM?
+-React is responsible for creating view and reactdom is responsible for rendering that view.
+
+//What is difference between react.development.js and react.production.js files via CDN?
+-In development mode performance is not that fast.But in  production mode performance is much faster.
+
+//What is async and defer?
+-Async downloads and execute javascript as soon as its available,while defer attribute waits until the html document has been parsed before dowloading and executing extrenal scripts.
+-Async: It means that the script will be executed asynchronously, meaning other scripts can continue executing while the external script is being downloaded and executed.
+
+

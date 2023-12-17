@@ -1,0 +1,17 @@
+//Library
+
+A library is a collection of object,modules or functions that you can call from your code to perform specific task.A library is small and you can add more libraries in it.
+
+//Framemork
+
+A Framemork is a structure that provide guideline and enforce specific coding practices.Framemork is a complete package all the necessary thing for development is already installed.
+
+//What is CDN ? Why do we use it?
+
+CDN stands for Content Delivery Network.It is a globaly distributed netwrok of proxy servers and their data centres.
+
+##use
+
+1.Fastest Content Delivery.
+2.Cache Mangement.
+3.Scalability
